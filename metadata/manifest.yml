@@ -19,7 +19,7 @@ Compatible-Versions:
 - 0.0.16
 - 0.0.17
 - 0.0.19
-Cartridge-Vendor: redhat
+Cartridge-Vendor: ckyrouac
 Categories:
 - service
 - javascript
